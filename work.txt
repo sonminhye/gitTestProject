@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-git modify file
-=======
-i changed txt file contents
->>>>>>> change2
+git change branch is right! 
+merge solved.
