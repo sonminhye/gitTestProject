@@ -6,3 +6,5 @@ git issu1 fixed3.
 
 git issu2 fixed.
 git issu2 fixed2.
+
+git issu3 fixed.
