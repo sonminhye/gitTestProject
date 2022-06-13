@@ -1,2 +1,4 @@
 git change branch is right! 
 merge solved.
+
+file modified and branch name is hot fix.
