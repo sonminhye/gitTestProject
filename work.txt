@@ -2,7 +2,7 @@ git change branch is right!
 merge solved.
 
 file modified and branch name is hot fix.
-git issu1 fixed3.
+git issu1 re-fixed.
 
 git issu2 fixed.
 git issu2 fixed2.
