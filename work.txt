@@ -1,4 +1,4 @@
 git change branch is right! 
 merge solved.
 
-git issu1 fixed2.
+git issu1 fixed3.
