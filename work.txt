@@ -4,3 +4,4 @@ merge solved.
 file modified and branch name is hot fix.
 git issu1 fixed3.
 
+git issu2 fixed.
