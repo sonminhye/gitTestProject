@@ -1,1 +1,10 @@
-hello world!
+git change branch is right! 
+merge solved.
+
+file modified and branch name is hot fix.
+git issu1 re-fixed.
+
+git issu2 fixed.
+git issu2 fixed2.
+
+git issu3 fixed.
